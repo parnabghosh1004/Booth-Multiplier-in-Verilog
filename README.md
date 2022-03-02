@@ -8,7 +8,8 @@ Implementation of booth's multiplier algorithm for signed numbers in verilog. Da
 
 **Datapath Architecture**
 
-![Screenshot (468)](https://user-images.githubusercontent.com/67265356/156345355-ef33add8-c2f9-4070-adae-7f39be9249ce.png)
+![Screenshot (471)](https://user-images.githubusercontent.com/67265356/156347560-cb857ca8-7c4a-4d42-96a7-98ce6c52a747.png)
+
 
 **Timing Diagram**
 
